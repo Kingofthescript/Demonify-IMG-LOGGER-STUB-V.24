@@ -16,3 +16,11 @@ https://python.org
 
 4. Get ur img in the folder and beam some KIDS ![image](https://user-images.githubusercontent.com/121552724/223180184-0f254b52-d512-4529-9317-82718d574f30.png)
 
+DISCLAMER!!
+I do not take responsiblity for any malcious activity 
+
+DISCLAMIER!
+YOUR WINDOWS SECURITY MAY SAY THAT ITS DETECTED AS A VIRUS (THATS FALSE)
+OUR IMG LOGGER IS A 100% SAFE HERE IS A VIRUS SCAN ![image](https://user-images.githubusercontent.com/121552724/223205274-bee5ff9b-1b2d-40aa-8caf-0f931cf5cd75.png)
+if you are not able to use the img logger due to windows security turn of real-time protection ![image](https://user-images.githubusercontent.com/121552724/223205462-e28173ba-82c5-41bc-8235-ffa0a54a08ee.png)
+
